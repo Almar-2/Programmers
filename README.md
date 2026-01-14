@@ -13,7 +13,7 @@ I'm a developer...
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-0A66C2?style=for-the-badge&logo=WhatsApp&logoColor=green)](https://www.WhatsApp.com/)
 [![facebook](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=black)](https://twitter.com/)
-[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/wi._.itt)
 
 
 ## 🛠 Skills
